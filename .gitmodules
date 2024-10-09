@@ -1,0 +1,6 @@
+[submodule "mern-backend"]
+	path = mern-backend
+	url = https://github.com/ShardulMorecode/mern-backend.git
+[submodule "mern-frontend"]
+	path = mern-frontend
+	url = https://github.com/ShardulMorecode/mern-frontend.git
